@@ -35,6 +35,9 @@ function destrucivelyRemoveElementFromEndOfArray(arr){
 function removeElementFromEndOfArray(arr){
   return arr.slice(0, arr.length-1);
 }
+// test functions below
+
+var chocolateBars = ["snickers","hundred grand", "kitkat", "skittles"]
 
 
 
