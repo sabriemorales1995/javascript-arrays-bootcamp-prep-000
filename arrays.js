@@ -32,3 +32,7 @@ function destrucivelyRemoveElementFromEndOfArray(arr){
   return arr;
 }
 
+function removeElementFromEndOfArray(arr){
+  var temp = arr;
+  
+}
